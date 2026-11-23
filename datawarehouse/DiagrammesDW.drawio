@@ -1,0 +1,155 @@
+<mxfile host="Electron" modified="2026-06-28T10:51:05.352Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.6.4 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="7JAzorkVihbYj6zWAv6_" version="24.6.4" type="device">
+  <diagram name="Page-1" id="dCwuZuah0srvgag5MH0i">
+    <mxGraphModel dx="1063" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oYt-YskzYFH2MnnJQSbT-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1070" width="830" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="oYt-YskzYFH2MnnJQSbT-1" value="Outils BI &amp; Analytics" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="116" y="1359" width="837" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="oYt-YskzYFH2MnnJQSbT-2" value="Power BI / Tableau" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="oYt-YskzYFH2MnnJQSbT-1">
+          <mxGeometry x="43" y="33" width="150" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="oYt-YskzYFH2MnnJQSbT-3" value="Self-Service Analytics" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="oYt-YskzYFH2MnnJQSbT-1">
+          <mxGeometry x="243" y="33" width="168" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="oYt-YskzYFH2MnnJQSbT-4" value="Dashboards &amp; Reporting" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="oYt-YskzYFH2MnnJQSbT-1">
+          <mxGeometry x="461" y="33" width="186" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="oYt-YskzYFH2MnnJQSbT-5" value="Alerting &amp; ML" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="oYt-YskzYFH2MnnJQSbT-1">
+          <mxGeometry x="697" y="33" width="114" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="oYt-YskzYFH2MnnJQSbT-6" value="Couche OLAP" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="362" y="1210" width="346" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="oYt-YskzYFH2MnnJQSbT-7" value="Cubes Multidimensionnels" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="oYt-YskzYFH2MnnJQSbT-6">
+          <mxGeometry x="43" y="25" width="276" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="oYt-YskzYFH2MnnJQSbT-8" value="Data Mart Ventes" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1080.5" width="137" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="oYt-YskzYFH2MnnJQSbT-9" value="Data Mart Clients 360" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="317" y="1080.5" width="169" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="oYt-YskzYFH2MnnJQSbT-10" value="Data Mart Stocks &amp; Appro" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1080.5" width="197" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="oYt-YskzYFH2MnnJQSbT-11" value="Data Mart Promotions" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="770" y="1080.5" width="169" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="oYt-YskzYFH2MnnJQSbT-12" value="Data Warehouse Central - Gold" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="390" y="911" width="290" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="oYt-YskzYFH2MnnJQSbT-13" value="Historique complet&#xa;Surrogate Keys + SCD" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="oYt-YskzYFH2MnnJQSbT-12">
+          <mxGeometry x="43" y="33" width="220" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="oYt-YskzYFH2MnnJQSbT-14" value="ODS&#xa;Data Store opérationnel" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="487" y="746" width="259" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="oYt-YskzYFH2MnnJQSbT-15" value="Base relationnelle&#xa;Quasi temps réel&#xa;PostgreSQL / SQL Server" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="oYt-YskzYFH2MnnJQSbT-14">
+          <mxGeometry x="41" y="44" width="189" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="oYt-YskzYFH2MnnJQSbT-16" value="Staging - Silver&#xa;" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="425" y="580" width="220" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="oYt-YskzYFH2MnnJQSbT-17" value="Données nettoyées&#xa;Dédoublonnées&#xa;Conformées" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="oYt-YskzYFH2MnnJQSbT-16">
+          <mxGeometry x="43" y="34" width="150" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="oYt-YskzYFH2MnnJQSbT-18" value="Data Lake - Bronze" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="414" y="415" width="243" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="oYt-YskzYFH2MnnJQSbT-19" value="Stockage Brut&#xa;des données" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="oYt-YskzYFH2MnnJQSbT-18">
+          <mxGeometry x="42.5" y="35" width="173" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="oYt-YskzYFH2MnnJQSbT-20" value="Ingestion" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="349.5" y="249" width="371" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="oYt-YskzYFH2MnnJQSbT-21" value="ETL / ELT Tools&#xa;Azure Data Factory - SSIS - Talend - NiFi&#xa;Kafka + Spark Streaming" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="oYt-YskzYFH2MnnJQSbT-20">
+          <mxGeometry x="35" y="33" width="301" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="oYt-YskzYFH2MnnJQSbT-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.579;exitY=1.05;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="oYt-YskzYFH2MnnJQSbT-20" source="oYt-YskzYFH2MnnJQSbT-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="535" y="199" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oYt-YskzYFH2MnnJQSbT-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="oYt-YskzYFH2MnnJQSbT-20" target="oYt-YskzYFH2MnnJQSbT-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oYt-YskzYFH2MnnJQSbT-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="oYt-YskzYFH2MnnJQSbT-18" target="oYt-YskzYFH2MnnJQSbT-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oYt-YskzYFH2MnnJQSbT-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.76;exitY=1.01;entryX=0.417;entryY=0.003;rounded=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oYt-YskzYFH2MnnJQSbT-16" target="oYt-YskzYFH2MnnJQSbT-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oYt-YskzYFH2MnnJQSbT-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.24;exitY=1.01;entryX=0.3;entryY=0;rounded=0;" edge="1" parent="1" source="oYt-YskzYFH2MnnJQSbT-16" target="oYt-YskzYFH2MnnJQSbT-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="452" y="721" />
+              <mxPoint x="452" y="886" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oYt-YskzYFH2MnnJQSbT-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.7;entryY=0;rounded=0;" edge="1" parent="1" source="oYt-YskzYFH2MnnJQSbT-14" target="oYt-YskzYFH2MnnJQSbT-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="617" y="886" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oYt-YskzYFH2MnnJQSbT-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="oYt-YskzYFH2MnnJQSbT-12" target="oYt-YskzYFH2MnnJQSbT-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="535" y="1076" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oYt-YskzYFH2MnnJQSbT-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="oYt-YskzYFH2MnnJQSbT-6" source="oYt-YskzYFH2MnnJQSbT-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="535" y="1159" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oYt-YskzYFH2MnnJQSbT-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="oYt-YskzYFH2MnnJQSbT-6" target="oYt-YskzYFH2MnnJQSbT-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oYt-YskzYFH2MnnJQSbT-39" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="90" y="110" width="770" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oYt-YskzYFH2MnnJQSbT-37" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="oYt-YskzYFH2MnnJQSbT-39">
+          <mxGeometry width="770" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oYt-YskzYFH2MnnJQSbT-22" value="ERP&#xa;(Ventes)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="oYt-YskzYFH2MnnJQSbT-39">
+          <mxGeometry x="26" y="5.5" width="129" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="oYt-YskzYFH2MnnJQSbT-23" value="CRM&#xa;(Clients)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="oYt-YskzYFH2MnnJQSbT-39">
+          <mxGeometry x="205" y="5.5" width="64" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="oYt-YskzYFH2MnnJQSbT-24" value="Gestion Stocks" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="oYt-YskzYFH2MnnJQSbT-39">
+          <mxGeometry x="319" y="5.5" width="119" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="oYt-YskzYFH2MnnJQSbT-25" value="E-commerce" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="oYt-YskzYFH2MnnJQSbT-39">
+          <mxGeometry x="489" y="5.5" width="104" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="oYt-YskzYFH2MnnJQSbT-26" value="App Mobile" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="oYt-YskzYFH2MnnJQSbT-39">
+          <mxGeometry x="643" y="5.5" width="95" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="oYt-YskzYFH2MnnJQSbT-45" value="Rôle de chaque composant :&lt;br&gt;&lt;br&gt;Sources : Données brutes sous diférentes formes (structurées, semi-structurées, non-structurées).&lt;div&gt;&lt;br&gt;ETL/ELT : Extraction, transformation (nettoyage, enrichissement, conformité), chargement. ELT préféré aujourd’hui car le calcul est poussé vers l’entrepôt puissant (Snowflake, Databricks, BigQuery).&lt;/div&gt;&lt;div&gt;&lt;br&gt;Staging / Landing : Zone tampon pour ingestion fiable, rejouabilité, et audit.&lt;/div&gt;&lt;div&gt;&lt;br&gt;ODS : Couche intermédiaire pour reporting opérationnel et intégration temps réel sans impacter le Datawarehouse.&lt;/div&gt;&lt;div&gt;&lt;br&gt;Data Warehouse : Vérité unique, historique complet, modèle intégré pour l’entreprise entière.&lt;/div&gt;&lt;div&gt;&lt;br&gt;Data Marts : Modèles optimisés pour les usages métier (performance, simplicité pour les analystes).&lt;/div&gt;&lt;div&gt;&lt;br&gt;Cubes OLAP : Pré-agrégations multidimensionnelles pour analyses très rapides (drill-down, slice &amp;amp; dice).&lt;/div&gt;&lt;div&gt;&lt;br&gt;Outil BI : Interface utilisateur pour visualisation, exploration en libre-service et prise de décision.&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="110" width="627" height="280" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
