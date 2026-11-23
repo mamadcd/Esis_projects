@@ -1,0 +1,22 @@
+
+TP Lab1
+
+instance1 et login sur dockerhub
+ 
+
+
+run et exécution du container dans le nouveau port
+
+ 
+
+création de la repositoiry dans DockerHub
+
+ 
+
+
+Execution de l'application dans la nouvelle instance crée
+
+ 
+
+
+
